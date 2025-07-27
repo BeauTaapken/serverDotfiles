@@ -1,6 +1,0 @@
-[submodule "Server"]
-	path = Server
-	url = git@github.com:BeauTaapken/docker-compose.git
-[submodule "Server-scripts"]
-	path = Server-scripts
-	url = git@github.com:BeauTaapken/server-scripts.git
