@@ -1,6 +1,7 @@
 amd-ucode
 base
 base-devel
+bitwarden-cli
 cronie
 dhclient
 docker
