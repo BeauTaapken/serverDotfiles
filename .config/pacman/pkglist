@@ -30,6 +30,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 polkit
+smartmontools
 ttf-liberation
 ufw
 vim
