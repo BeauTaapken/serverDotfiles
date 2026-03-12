@@ -10,6 +10,7 @@ docker-compose
 efibootmgr
 fastfetch
 ffmpeg
+firefox
 git
 grub
 gst-plugin-pipewire
