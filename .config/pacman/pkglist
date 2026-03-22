@@ -27,6 +27,7 @@ linux-lts
 logrotate
 neovim
 openssh
+pacman-contrib
 pipewire
 pipewire-alsa
 pipewire-jack
