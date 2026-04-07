@@ -12,6 +12,7 @@ fastfetch
 ffmpeg
 firefox
 git
+git-filter-repo
 grub
 gst-plugin-pipewire
 htop
