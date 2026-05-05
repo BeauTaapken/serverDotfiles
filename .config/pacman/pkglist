@@ -3,6 +3,7 @@ apache
 base
 base-devel
 bitwarden-cli
+bluez
 cronie
 dhclient
 docker
