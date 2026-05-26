@@ -2,7 +2,6 @@ amd-ucode
 apache
 base
 base-devel
-bind
 bitwarden-cli
 bluez
 cronie
@@ -14,7 +13,6 @@ fastfetch
 ffmpeg
 firefox
 git
-git-filter-repo
 grub
 gst-plugin-pipewire
 htop
