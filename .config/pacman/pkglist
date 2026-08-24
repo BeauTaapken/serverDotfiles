@@ -9,6 +9,7 @@ dhclient
 docker
 docker-compose
 efibootmgr
+ethtool
 fastfetch
 ffmpeg
 firefox
