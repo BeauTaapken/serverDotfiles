@@ -5,6 +5,7 @@ base-devel
 bitwarden-cli
 bluez
 cronie
+deno
 dhclient
 docker
 docker-compose
